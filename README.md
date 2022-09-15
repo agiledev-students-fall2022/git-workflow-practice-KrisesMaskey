@@ -5,3 +5,6 @@
 
 
 The article is about Google CEO, Sundar Pichai's response when asked about the biggest threats companies face. Here, he answers saying "Big companies, particularly, fail because they stumble internally". He highlights the incompetence of big companies to only focus on external factors rather than understand their internal environment. This might sound small but at the end of the day internal matters are what the company can handle and execute properly rather than anticipating external threats. The same applies to software engineering/development, teams can only account for themselvves and their work, the success depends on the internal execution rather than being aware of what's going on outside.
+
+##Comments:
+This is an interesting article! Big companies do have their own problems - which can easily lead to inefficiency (among other issues) if not managed well. -Phil Wee
