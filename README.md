@@ -8,3 +8,7 @@ The article is about Google CEO, Sundar Pichai's response when asked about the b
 
 #### Comment from Safal:
 Fully agree with you on this. I think coordination among the different moving parts in software development is the most important no matter the expertise of an individual in the team. If there's no proper coordination, however talented the team may be, it'll go wasted.
+
+
+## Comments:
+This is an interesting article! Big companies do have their own problems - which can easily lead to inefficiency (among other issues) if not managed well. -Phil Wee
